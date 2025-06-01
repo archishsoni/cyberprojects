@@ -1,0 +1,29 @@
+[
+  {
+    "id": "lambo_huracan",
+    "make": "Lamborghini",
+    "model": "Huracán",
+    "year": 2021,
+    "daily_rate": 1200,
+    "deposit": 2000,
+    "available": true
+  },
+  {
+    "id": "ferrari_488",
+    "make": "Ferrari",
+    "model": "488 Spider",
+    "year": 2019,
+    "daily_rate": 1400,
+    "deposit": 2500,
+    "available": true
+  },
+  {
+    "id": "mclaren_720s",
+    "make": "McLaren",
+    "model": "720S",
+    "year": 2020,
+    "daily_rate": 1500,
+    "deposit": 2500,
+    "available": true
+  }
+]
